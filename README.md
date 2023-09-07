@@ -1,10 +1,12 @@
 # Credit Risk Classification: Machine Learning 
 ## Module 20 Challenge 
 
-![download](https://github.com/CBURKHARDT47/Credit-Risk-Classification-/assets/128064003/1a6d2034-b9cd-4988-8e27-3a7ed38a2e66)
+![12-homework-image](https://github.com/CBURKHARDT47/Credit-Risk-Classification-/assets/128064003/20dd6cf3-0839-4bf5-9b36-4256d446dc8c)
 
 ### Business Context
 Credit scoring aids lenders in the granting of consumer credit. Typical application areas in the consumer market include: creditcards, autoloans, home loans and a wide variety of personal loan products.
+
+![download](https://github.com/CBURKHARDT47/Credit-Risk-Classification-/assets/128064003/1a6d2034-b9cd-4988-8e27-3a7ed38a2e66)
 
 Objective
 In this case study, one of the leading banks would like to predict customers who are most likely to default on the loan. For new customers we need to decide whether to extend credit or not by analyzing the behaviour of existing customers. Various machine learning techniques are used to train and evaluate a model that can identify the creditworthiness of borrowers based on loan risk, using a dataset of historical lending activity from a peer-to-peer lending services company.
