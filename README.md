@@ -11,10 +11,16 @@ Credit scoring aids lenders in the granting of consumer credit. Typical applicat
 ### Objective
 In this case study, one of the leading banks would like to predict customers who are most likely to default on the loan. For new customers we need to decide whether to extend credit or not by analyzing the behaviour of existing customers. Various machine learning techniques are used to train and evaluate a model that can identify the creditworthiness of borrowers based on loan risk, using a dataset of historical lending activity from a peer-to-peer lending services company.
 
+
+![use-data-training](https://github.com/CBURKHARDT47/Credit-Risk-Classification-/assets/128064003/57d042c8-ea04-40c1-ad97-91ab305324e8)
+
 ### The instructions for this Challenge are divided into the following subsections:  
 * Split the Data into Training and Testing Sets
 * Create a Logistic Regression Model with the Original Data
 * Write a Credit Risk Analysis Report
+  
+  
+![download](https://github.com/CBURKHARDT47/Credit-Risk-Classification-/assets/128064003/6d8b1c2d-fc85-436d-a41e-00d45e323711)
 
 ### Split the Data into Training and Testing Sets
 Open the starter code notebook and use it to complete the following steps:
@@ -22,6 +28,12 @@ Open the starter code notebook and use it to complete the following steps:
 * Create the labels set (y) from the “loan_status” column, and then create the features (X) DataFrame from the remaining columns.
 * NOTE: A value of 0 in the “loan_status” column means that the loan is healthy. A value of 1 means that the loan has a high risk of defaulting.
 * Split the data into training and testing datasets by using train_test_split.
+
+  
+
+![52-1](https://github.com/CBURKHARDT47/Credit-Risk-Classification-/assets/128064003/c6081da0-b98f-40af-b8c8-6d3c69aa9c4a)
+
+![46-4](https://github.com/CBURKHARDT47/Credit-Risk-Classification-/assets/128064003/90efd773-cb46-4e0d-aa6f-e549a9c20cd0)
 
 ### Create a Logistic Regression Model with the Original Data
 Use your knowledge of logistic regression to complete the following steps:
@@ -31,6 +43,9 @@ Use your knowledge of logistic regression to complete the following steps:
     * Generate a confusion matrix.
     * Print the classification report.
 * Answer the following question: How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
+
+
+![b2697b04-b59f-4505-8448-05ccf9ee2fe9](https://github.com/CBURKHARDT47/Credit-Risk-Classification-/assets/128064003/142abf69-dab0-4efc-9e4d-43067102b833)
 
 ### Write a Credit Risk Analysis Report
 Write a brief report that includes a summary and analysis of the performance of the machine learning models that you used in this homework. You should write this report as the README.md file included in your GitHub repository. Structure your report by using the report template that Starter_Code.zip includes, ensuring that it contains the following:
